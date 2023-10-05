@@ -8,50 +8,14 @@
     <language>en</language>
     <managingEditor>yessgekay@gmail.com (yessgeekay)</managingEditor>
     <webMaster>yessgekay@gmail.com (yessgeekay)</webMaster>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://yessgeekay.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Oct 2023 16:07:22 +0200</lastBuildDate><atom:link href="https://yessgeekay.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://yessgeekay.github.io/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Bootstrapping</title>
+      <link>https://yessgeekay.github.io/post/bootstrapping/</link>
+      <pubDate>Thu, 05 Oct 2023 16:07:22 +0200</pubDate>
       <author>yessgekay@gmail.com (yessgeekay)</author>
-      <guid>https://yessgeekay.github.io/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://yessgeekay.github.io/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <author>yessgekay@gmail.com (yessgeekay)</author>
-      <guid>https://yessgeekay.github.io/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://yessgeekay.github.io/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <author>yessgekay@gmail.com (yessgeekay)</author>
-      <guid>https://yessgeekay.github.io/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://yessgeekay.github.io/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 +0000</pubDate>
-      <author>yessgekay@gmail.com (yessgeekay)</author>
-      <guid>https://yessgeekay.github.io/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://yessgeekay.github.io/post/emoji-support/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <author>yessgekay@gmail.com (yessgeekay)</author>
-      <guid>https://yessgeekay.github.io/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://yessgeekay.github.io/post/bootstrapping/</guid>
+      <description>Knowing very little about creating websites, my first choice was to try to setup a site on Wordpress. My experience was not so smooth. It involved setting up databases and installing large binaries just to get a simple site going. When I spoke to a friend about this, he introduced me to static websites, which seem to work great for me. Between Jekyll and Hugo, I felt that Hugo themes were better and has really good emacs integration and hence will be easy to integrate into my existing workflow.</description>
     </item>
     
   </channel>
