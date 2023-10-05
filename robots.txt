@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://yessgeekay.github.io/sitemap.xml
