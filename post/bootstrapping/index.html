@@ -43,7 +43,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://yessgeekay.github.io/post/bootstrapping/" /><meta property="og:image" content="https://yessgeekay.github.io/images/logo.jpg"/><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2023-10-05T16:07:22+02:00" />
-<meta property="article:modified_time" content="2023-10-05T16:29:11+02:00" /><meta property="og:site_name" content="S|Log" />
+<meta property="article:modified_time" content="2023-10-06T21:50:50+02:00" /><meta property="og:site_name" content="S|Log" />
 
 
   
@@ -53,8 +53,8 @@
   
   <meta itemprop="name" content="Bootstrapping">
 <meta itemprop="description" content="Bootstrapping the website"><meta itemprop="datePublished" content="2023-10-05T16:07:22+02:00" />
-<meta itemprop="dateModified" content="2023-10-05T16:29:11+02:00" />
-<meta itemprop="wordCount" content="285"><meta itemprop="image" content="https://yessgeekay.github.io/images/logo.jpg"/>
+<meta itemprop="dateModified" content="2023-10-06T21:50:50+02:00" />
+<meta itemprop="wordCount" content="303"><meta itemprop="image" content="https://yessgeekay.github.io/images/logo.jpg"/>
 <meta itemprop="keywords" content="setting-up," />
 
   
@@ -144,6 +144,7 @@
     <div class="toc numbered-subtitles"><nav id="TableOfContents">
   <ul>
     <li><a href="#compiling-locally-and-pushing-compiled-website">Compiling locally and pushing compiled website</a></li>
+    <li><a href="#testing-modification">Testing modification</a></li>
   </ul>
 </nav></div>
   </details>
@@ -155,6 +156,8 @@
 <p>Setting up <code>hugo</code> site locally was seamless. Got it working on both Linux and macOS without hassles. The ready-solution provided by the developers is to host the entire folder on Github and use github-actions to compile the site on-the-fly. This has 2 problems, IMO. The first one being that you&rsquo;re reliant on Github compilation mechanisms (which are free for now, but there is no guarantee that it will be forever). The second problem is the issue of privacy. Ideally you would want to secure the source code and make public only the barebones contents of the website. So there had to be an alternate solution.</p>
 <h2 id="compiling-locally-and-pushing-compiled-website">Compiling locally and pushing compiled website</h2>
 <p>Since you anyway compile locally to check if the website looks fine, it didn&rsquo;t make sense to make the Github system compile again. The solution was simply to create a repository which contains only the compiled code and it works! The only additional change is to explicitly change the settings on the github repo to tell that the root directory has a website which needs to be deployed!</p>
+<h2 id="testing-modification">Testing modification</h2>
+<p>Coments were made previously. Now do the comments stay as is if more content is added?</p>
 
     
   </article>
