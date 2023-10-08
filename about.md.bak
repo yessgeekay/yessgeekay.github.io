@@ -6,6 +6,26 @@ aliases = ["old-about-me"]
 author = "somebody"
 draft = true
 +++
+
+
+I started off as a mechanical engineer, but I am now a professional astrophysicist. I'm interested in a wide-range of topics from astrophysis, applied mathematics, linguistics and religion. I'll use this platform for predominantly two things.
+- To ramble about some fleeting research interest or speculate about possible applications of topics I've encountered on the internet. I believe that putting things in writing helps in mental clarity. This would let me decide the course of the research. 
+- To systematically study some topics of interest. 
+
+
+## Science
+Since most of my work involves building physical models to explain observed data, I will be broadly focussing on themes like optimization techniques, regularization, inversions and so on. Given the recent advancements in AI, I am also very keen on it's application in the context of sciences. Generative AI has been tremendously successful in performing tasks at a level that was previously impossible from explicit programming with turnaround times faster than any human could. However there is the aspect of _hallucination_ which makes it's deployment in the scientific context very challenging. My philosophy of science is this: Science is a cyclic process of data accumulation, data analysis and data reduction.
+- **Data accumulation** is scourging of data which could be in the form of physical experiments performed in the laboratory, samples or observations collected from terrestrial or extra-terrestrial sources. This could be exploratory in nature (you don't know what to expect, but you're doing it because you haven't done it before) or it could be confirmatory (you have a fairly good idea of what to expect and are establishing that the idea is correct). AI could potentially enhance our abilities in this process, but my interest is more in the next two steps.
+- **Data analysis** step would involve the processing of collected data. Any form of data collected is inherently _imperfect_. Imperfect in the sense that the data encodes aspects which aren't explicitly considered. Some of these could be instrumental systematic effects and some could be unmodelled physics. This step involves careful filtering of the observed data. 
+ - **Data reduction** would involve building models to explain the data. These models act as a replacement for the data itself, while having the promise of being applied to other parameter spaces where data hasn't been collected yet.
+
+Why do I call it a cyclic process? The process feeds into itself. Over time, we keep building better and more generic models to explain observed data. As model robustness and generality increases, we also seek to question the limits of the model. That motivates further data collection and restarts the cycle again. 
+
+ 
+## About religion
+While there have been various debates about science v/s religion, I'm most fascinated by the continual influence of religion and it's strong resilience to stay relevant in-spite of the highly material world that we live in. 
+
+
 ## Features
 
 - **Social sharing buttons**
